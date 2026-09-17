@@ -53961,5 +53961,12 @@
     "author": "Adam Coddington",
     "description": "Google Docs-style comments and suggested edits, kept in Sidemark (MRSF) .review.yaml sidecars so your Markdown stays clean. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "coddingtonbear/obsidian-sidemark"
+  },
+  {
+    "id": "vault-bridge",
+    "name": "Vault Bridge",
+    "author": "YaYII",
+    "description": "Open a token-protected port on your computer, then upload and download vault files from your phone over a URL.",
+    "repo": "YaYII/obsidian-vault-bridge"
   }
 ]
